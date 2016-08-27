@@ -7,13 +7,13 @@ import com.antuansoft.herospace.AuthenticationUtil;
 import com.antuansoft.herospace.HistoryAwarePerson;
 import com.antuansoft.herospace.Person;
 import com.antuansoft.herospace.PersonDAO;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Scope;
+import org.springframework.context.annotation.*;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
+import org.springframework.scheduling.annotation.EnableAsync;
+import org.springframework.web.client.AsyncRestTemplate;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 import org.springframework.web.servlet.view.JstlView;
 import org.springframework.web.servlet.view.UrlBasedViewResolver;
@@ -25,7 +25,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Configuration
 @EnableWebMvc
-//@EnableTransactionManagement
+@EnableAsync
+@ImportResource("classpath:com/antuansoft/init/appconfig.xml")
 @ComponentScan("com.antuansoft")
 public class WebAppConfig extends WebMvcConfigurerAdapter {
 
@@ -86,27 +87,31 @@ public class WebAppConfig extends WebMvcConfigurerAdapter {
         PersonDAO personDAO = null;
         return personDAO;
     }
+    @Bean
+    AsyncRestTemplate asyncRestTemplate() {
+        return new AsyncRestTemplate();
 
 
 }
 
 
 
-/*
+
     @Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		 
-		
-		registry.addResourceHandler("/assets/**")
-	    .addResourceLocations("classpath:/assets/");
-	  registry.addResourceHandler("/css/**")
+
+
+		registry.addResourceHandler("/assets*//**")
+	    .addResourceLocations("classpath:WEB-INF/views/assets/");
+	  registry.addResourceHandler("/css*//**")
 	    .addResourceLocations("/css/");
-	  registry.addResourceHandler("/images/**")
+	  registry.addResourceHandler("/images*//**")
 	    .addResourceLocations("/images/");
-	  registry.addResourceHandler("/js/**")
+	  registry.addResourceHandler("/js*//**")
 	    .addResourceLocations("/js/");
 
 		}
-*/
 
 
+
+}

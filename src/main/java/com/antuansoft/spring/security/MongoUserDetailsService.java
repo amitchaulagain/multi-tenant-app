@@ -26,6 +26,7 @@ import org.springframework.http.HttpRequest;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -34,6 +35,7 @@ import org.springframework.security.web.DefaultRedirectStrategy;
 import org.springframework.security.web.RedirectStrategy;
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
 import org.springframework.security.web.context.HttpRequestResponseHolder;
+import org.springframework.security.web.context.HttpSessionSecurityContextRepository;
 import org.springframework.stereotype.Component;
 
 import com.antuansoft.mongodb.repositories.UserRepositoryDao;
@@ -103,9 +105,10 @@ public class MongoUserDetailsService implements UserDetailsService, Authenticati
 
     @Override
     public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response, Authentication authentication) throws IOException, ServletException {
+        SecurityContextHolder.getContext().setAuthentication(authentication);
         //MongoConnection.dbConfig = userRepositoryDao.findByUsername(authentication.getName()).getClient_schema();
 
-        Thing thing = appCtx.getBean(Thing.class);
+       /* Thing thing = appCtx.getBean(Thing.class);
         thing.name = "testing";
         thing.getName();
         PersonDAO personDAO = appCtx.getBean(PersonDAO.class);
@@ -115,7 +118,7 @@ public class MongoUserDetailsService implements UserDetailsService, Authenticati
         mc.connectionURL="localhost:27017";
         personDAO.collectionName="jkjkjkj";
        // mc.collectionName
-        personDAO.collectionName=mc.connectionURL;
+        personDAO.collectionName=mc.connectionURL;*/
         redirectStrategy.sendRedirect(request, response, "/menu");
 
     }

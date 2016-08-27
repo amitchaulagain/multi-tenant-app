@@ -33,6 +33,7 @@ public abstract class DAO<T extends Model> implements CRUD<T> {
     public Class<T> type;
     public String collectionName;
 
+
     /**
      * Create a DAO for given collection, using the URL and DB
      *
@@ -270,14 +271,14 @@ public abstract class DAO<T extends Model> implements CRUD<T> {
 
     /**
      * Saves the entity
-     * HistoryCRUD only starts on updates
+     * AsyncHistoryCRUD only starts on updates
      *
      * @param entity
      */
     @Override
     public Object save(T entity) {
         collection.save(entity);
-        return entity.getId();
+        return entity;
     }
 
     /**

@@ -1,7 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5b7a1f1-d448-4565-adfd-a148f1448798" name="Default" comment="" />
+    <list default="true" id="e5b7a1f1-d448-4565-adfd-a148f1448798" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/common/portfolio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-dojo1.6/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-dojo1.8/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-jQuery/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-ssjs/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-kitchen-sink/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-with-js-and-domReady/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/debug/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/_define.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/_stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/cjsm11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/jsEncode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/cjsm11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/_fetchText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/_fetchText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/dojo16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/dojo18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/ssjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/tdd/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/tdd/undefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/dist/html5shiv-printshiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/dist/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/src/html5shiv-printshiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/src/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/knockout-2.3.0.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/knockout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/messagePort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/redis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/webSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/aggregators/batching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/aggregators/correlating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/bridges/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/direct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/_subscribable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/broadcast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/direct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/exchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/pollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/unicast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/exchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/pubsub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/translators/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/gateways.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/msgs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/wire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/es5-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/lib/_base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/poly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/setImmediate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/support/json3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/sockjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/sockjs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/stomp/lib/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/stomp/lib/stomp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/cancelable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/guard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/aggregator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/both.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/logger/consoleGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/logger/rethrowToHost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/simpleFormatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/simpleReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/stackFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/throttledReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/node/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/parallel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/poll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/sequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/timed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/unfold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/unfold/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/when.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/socket.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/traditional/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/common/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/common/portfolio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-dojo1.6/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-dojo1.8/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-jQuery/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-ssjs/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-kitchen-sink/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-with-js-and-domReady/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/debug/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/_define.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/_stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/cjsm11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/jsEncode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/cjsm11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/legacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/_fetchText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/domReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/_fetchText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/dojo16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/dojo18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/ssjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/undefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/dist/html5shiv-printshiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/dist/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/src/html5shiv-printshiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/src/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/knockout-2.3.0.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/knockout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/messagePort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/redis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/webSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/aggregators/batching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/aggregators/correlating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/bridges/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/direct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/_subscribable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/broadcast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/direct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/exchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/pollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/unicast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/exchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/pubsub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/translators/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/gateways.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/msgs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/wire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/es5-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/lib/_base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/poly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/setImmediate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/support/json3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/sockjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/sockjs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/stomp/lib/stomp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/stomp/lib/stomp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.jshintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/apply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/cancelable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/guard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/aggregator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/both.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/logger/consoleGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/logger/rethrowToHost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/simpleFormatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/simpleReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/stackFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/throttledReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/node/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/parallel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/pipeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/poll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/sequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/timed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/unfold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/unfold/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/when.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/portfolio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncCRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwarePerson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryCRUD.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryPersistenceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncPersonDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/Greeting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/HelloMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SpringAsyncConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/SpringSecurity_MongoDB_MVC_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSecurity_MongoDB_MVC_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" afterPath="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java" />
+    </list>
     <ignored path="SpringSecurity-MongoDB-MVC.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,87 +414,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PortfolioController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuoteService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/QuoteService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4344473">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.2673522">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HistoryAwareDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java">
+      <file leaf-file-name="AsyncHistoryAwareModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java">
+      <file leaf-file-name="Greeting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/Greeting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="62" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1034484">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MongoUserDetailsService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebAppConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/PersonDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="75" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthenticationUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="5" selection-start-line="14" selection-start-column="47" selection-end-line="22" selection-end-column="5" />
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -120,10 +470,51 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FutureHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/FutureHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonBlockingExecutor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonBlockingFuture.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,6 +525,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -149,14 +541,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/mongo-config.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/MongoConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/connection/AbstractRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/history/FullCopyHistoryPersistenceStrategy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwarePerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/history/HistoryAwareModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Person.java" />
@@ -168,20 +552,46 @@
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Jsd.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/UserDetailsWrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/ClientService.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/MongoConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Thing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/PersonDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/CRUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/HistoryAwareDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/HistoryAwarePerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/HistoryCRUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncPersonDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncCRUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryCRUD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryPersistenceStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwarePerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SpringAsyncConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/FutureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/appconfig.xml" />
+        <option value="$PROJECT_DIR$/WebContent/appconfig.xml" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/socket.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/QuoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/async/Greeting.java" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/heroine.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
       </list>
     </option>
   </component>
@@ -253,7 +663,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -267,7 +677,83 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SpringSecurity-MongoDB-MVC">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SpringSecurity-MongoDB-MVC">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SpringSecurity-MongoDB-MVC">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="com/antuansoft">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="SpringSecurity-MongoDB-MVC">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="com/antuansoft">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="async">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -287,38 +773,321 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antuansoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antuansoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antuansoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringSecurity-MongoDB-MVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antuansoft" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="init" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.22327965" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jongo-dao-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/NCED/TrainingApp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34797588" />
-    <property name="SearchEverywhereHistoryKey" value="mongo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java&#10;mongoCon&#9;PSI&#9;JAVA://com.antuansoft.init.MongoConnection&#10;mon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java&#10;thin&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Thing.java&#10;pom&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;weba&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebAppConfig.java&#10;con&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;person&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/PersonDAO.java&#10;filter&#9;PSI&#9;JAVA://com.antuansoft.init.SimpleCORSFilter#doFilter&#10;sec&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;m&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;pom.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;userre&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;user&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;cont&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
+    <property name="SearchEverywhereHistoryKey" value="maincon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;ser&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;fut&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/async/FutureHandler.java&#10;contro&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;pom&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;Authen&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;portfo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java&#10;webs&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebSocketConfig.java&#10;so&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;socket.js&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;sock&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;app&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/appconfig.xml&#10;ini&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;person&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;pers&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;secu&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;security&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;po&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;AuthenticationU&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;se&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;HttpSessionSecurityContextRepository&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;login.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;HttpSessionConte&#9;PSI&#9;JAVA://org.springframework.security.web.context.HttpSessionSecurityContextRepository&#10;SimpleCORSFilter&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/SimpleCORSFilter.java&#10;weba&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebAppConfig.java&#10;init&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;Main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;clie&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;m&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;Ma&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;mongo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java&#10;mongoCon&#9;PSI&#9;JAVA://com.antuansoft.init.MongoConnection&#10;mon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java&#10;thin&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Thing.java&#10;con&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;filter&#9;PSI&#9;JAVA://com.antuansoft.init.SimpleCORSFilter#doFilter&#10;sec&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;pom.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;userre&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;user&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;cont&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/antuansoft/async" />
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/antuansoft/init" />
+      <recent name="$PROJECT_DIR$/WebContent" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.antuansoft.service" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/antuansoft" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/resources/assets" />
+      <recent name="$PROJECT_DIR$/WebContent/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/antuansoft/init" />
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/views" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.antuansoft.async" />
       <recent name="com.antuansoft.init" />
       <recent name="com.antuansoft.mongodb.connection" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.antuansoft.init" />
+      <recent name="com.antuansoft.async" />
       <recent name="com.antuansoft.herospace" />
     </key>
   </component>
@@ -866,71 +1635,111 @@
       <workItem from="1462807252242" duration="30798000" />
       <workItem from="1462967425014" duration="42635000" />
       <workItem from="1463235432059" duration="1166000" />
-      <workItem from="1463241735656" duration="5234000" />
+      <workItem from="1463241735656" duration="17296000" />
+      <workItem from="1463506307963" duration="28643000" />
+      <workItem from="1463747592116" duration="11000" />
+      <workItem from="1463747720794" duration="230000" />
+      <workItem from="1463747967835" duration="10056000" />
+      <workItem from="1463847082309" duration="407000" />
+      <workItem from="1463847518153" duration="5358000" />
+      <workItem from="1463921046629" duration="7955000" />
+      <workItem from="1464106034584" duration="10267000" />
+      <workItem from="1464194853573" duration="4544000" />
+      <workItem from="1464203908032" duration="7037000" />
+      <workItem from="1464371061239" duration="480000" />
+      <workItem from="1464371572318" duration="13980000" />
+      <workItem from="1464449706512" duration="19403000" />
+      <workItem from="1464537713759" duration="1568000" />
+      <workItem from="1464712824277" duration="10368000" />
+      <workItem from="1465296898103" duration="5925000" />
+      <workItem from="1465492826362" duration="848000" />
+      <workItem from="1465496893061" duration="316000" />
+      <workItem from="1465500611443" duration="11000" />
+      <workItem from="1465501276475" duration="1079000" />
+      <workItem from="1465505727420" duration="869000" />
+      <workItem from="1465582756920" duration="1879000" />
+      <workItem from="1465586440439" duration="1245000" />
+      <workItem from="1465624616556" duration="36000" />
+      <workItem from="1466236185284" duration="1389000" />
+      <workItem from="1466238321861" duration="1607000" />
+      <workItem from="1466242043926" duration="4023000" />
+      <workItem from="1467608523465" duration="1327000" />
+      <workItem from="1472335745558" duration="1414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130979000" />
+    <option name="totallyTimeSpent" value="285415000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516129" sideWeight="0.5060606" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5451613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19318181" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31136364" sideWeight="0.48924732" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3242424" sideWeight="0.48924732" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31136364" sideWeight="0.5107527" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17348485" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17121212" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42419356" sideWeight="0.4939394" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5032258" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30483872" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516129" sideWeight="0.5060606" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15681818" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19318181" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17121212" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37903225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38387096" sideWeight="0.4939394" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5032258" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5451613" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23787878" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30483872" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3242424" sideWeight="0.48924732" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31136364" sideWeight="0.5107527" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
@@ -955,136 +1764,52 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java</url>
+          <line>252</line>
           <properties />
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>118</line>
-          <properties />
-          <option name="timeStamp" value="120" />
+          <option name="timeStamp" value="238" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java</url>
-          <line>141</line>
+          <line>251</line>
           <properties />
-          <option name="timeStamp" value="122" />
+          <option name="timeStamp" value="240" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java</url>
-          <line>145</line>
-          <properties />
-          <option name="timeStamp" value="124" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java</url>
-          <line>147</line>
-          <properties />
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java</url>
           <line>31</line>
           <properties />
-          <option name="timeStamp" value="133" />
+          <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>110</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java</url>
+          <line>26</line>
           <properties />
-          <option name="timeStamp" value="134" />
+          <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java</url>
-          <line>84</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java</url>
+          <line>30</line>
           <properties />
-          <option name="timeStamp" value="138" />
+          <option name="timeStamp" value="245" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>114</line>
-          <properties />
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java</url>
-          <line>86</line>
-          <properties />
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/PersonDAO.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java</url>
           <line>34</line>
           <properties />
-          <option name="timeStamp" value="141" />
+          <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java</url>
-          <line>114</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java</url>
+          <line>32</line>
           <properties />
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java</url>
-          <line>113</line>
-          <properties />
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>115</line>
-          <properties />
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>117</line>
-          <properties />
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java</url>
-          <line>111</line>
-          <properties />
-          <option name="timeStamp" value="149" />
+          <option name="timeStamp" value="248" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="150" />
+      <option name="time" value="249" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1093,45 +1818,21 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.2.2/mongo-java-driver-3.2.2.jar!/com/mongodb/WriteConcern.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8538324">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/jongo/jongo/1.3.0/jongo-1.3.0.jar!/org/jongo/MongoCollection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3493761">
-          <caret line="125" column="23" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/history/HistoryPersistenceStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/history/FullCopyHistoryPersistenceStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/history/HistoryAwareModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29577464">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1139,255 +1840,259 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/security/Principal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0689654">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/history/HistoryCRUD.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Model.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/awt/DisplayMode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2760736">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/MyThreadLocalStuff.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#207#208#0" expanded="false" />
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-          </folding>
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.4.RELEASE/spring-security-core-3.1.4.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1034484">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.4.RELEASE/spring-security-core-3.1.4.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.034483">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/UserStatus.java">
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/menu.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="126" selection-start-line="7" selection-start-column="126" selection-end-line="7" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/FilterChainProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46969697">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE-sources.jar!/org/springframework/web/filter/DelegatingFilterProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09309309">
-          <caret line="345" column="0" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10197368">
-          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/MyAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/net/PlainSocketImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34539473">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/traditional/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-58.125">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36421725">
-          <caret line="822" column="0" selection-start-line="822" selection-start-column="0" selection-end-line="822" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/mongo-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7280702">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.2.2/mongo-java-driver-3.2.2.jar!/com/mongodb/ServerAddress.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Model.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar!/org/springframework/context/annotation/ImportResource.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22881356">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state vertical-scroll-proportion="-3.1034484">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/appconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1779661">
+        <state vertical-scroll-proportion="-6.0833335">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/_define.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26785713">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/legacy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/cjsm11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/i18n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/css.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/undefine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/runner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/sockjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6505102">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/sockjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30612245">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/knockout-2.3.0.debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33163264">
+          <caret line="2188" column="4" selection-start-line="2188" selection-start-column="4" selection-end-line="2188" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="279" column="0" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/HelloMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08522727">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/socket.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5030488">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/hero.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6402439">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.722561">
+          <caret line="1030" column="37" selection-start-line="1030" selection-start-column="37" selection-end-line="1030" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/heroine.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/UserStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6100478">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.4.RELEASE/spring-security-core-3.1.4.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23136246">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwarePerson.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49632353">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/3.1.4.RELEASE/spring-security-core-3.1.4.RELEASE.jar!/org/springframework/security/core/Authentication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043624163">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/MyThreadLocalStuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12711865">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/MongoConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.586207">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="670" column="52" selection-start-line="670" selection-start-column="52" selection-end-line="670" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar!/org/springframework/context/support/GenericApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1395,98 +2100,100 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/UserDetailsWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
-          <folding>
-            <element signature="e#1995#1996#0" expanded="true" />
-            <element signature="e#2013#2014#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1034484">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="62" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/init/Thing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="5" selection-start-line="14" selection-start-column="47" selection-end-line="22" selection-end-column="5" />
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/PersonDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="75" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/QuoteService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/FutureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/Greeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4344473">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.2673522">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>

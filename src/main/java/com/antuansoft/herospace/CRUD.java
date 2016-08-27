@@ -122,7 +122,7 @@ public interface CRUD<T extends Model> {
 
     /**
      * Saves the entity
-     * HistoryCRUD only starts on updates
+     * AsyncHistoryCRUD only starts on updates
      * @param entity
      */
      Object save(T entity);

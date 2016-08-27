@@ -23,17 +23,18 @@ public class Initializer implements WebApplicationInitializer  {
 		ctx.register(WebAppConfig.class);
 		servletContext.addListener(new ContextLoaderListener(ctx));
 
-		servletContext.addFilter("simpleCorsFilter", "com.antuansoft.init.SimpleCORSFilter");
-		
+		FilterRegistration.Dynamic corsFilter=servletContext.addFilter("simpleCorsFilter", "com.antuansoft.init.SimpleCORSFilter");
+		corsFilter.setAsyncSupported(true);
+
 		FilterRegistration.Dynamic securityFilter = servletContext.addFilter("springSecurityFilterChain", DelegatingFilterProxy.class);
 	    securityFilter.addMappingForUrlPatterns(null, false, "/*");
+		securityFilter.setAsyncSupported(true);
 //		FilterRegistration.Dynamic authenticationFilter = servletContext.addFilter("authFilter", MyAuthenticationFilter.class);
 
 		ctx.setServletContext(servletContext);
-		Dynamic servlet = servletContext.addServlet(DISPATCHER_SERVLET_NAME,
-
-				new DispatcherServlet(ctx));
+		Dynamic servlet = servletContext.addServlet(DISPATCHER_SERVLET_NAME,new DispatcherServlet(ctx));
 		servlet.addMapping("/");
+		servlet.setAsyncSupported(true);
 		servlet.setLoadOnStartup(1);
 		 
 	}

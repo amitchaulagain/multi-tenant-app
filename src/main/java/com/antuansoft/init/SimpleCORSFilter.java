@@ -14,7 +14,8 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.stereotype.Component;
 
 @Component
-@WebFilter(urlPatterns = "/*")
+//@WebFilter(urlPatterns = "/*")
+@WebFilter
 public class SimpleCORSFilter implements Filter {
 
 	public void doFilter(ServletRequest req, ServletResponse res,

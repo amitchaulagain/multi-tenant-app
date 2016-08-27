@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * Created by nasir on 12/20/13.
  */
-//public class HistoryAwareDAO<T extends Model, U extends HistoryAwareModel> extends DAO<T> implements HistoryCRUD<U> {
+//public class HistoryAwareDAO<T extends Model, U extends HistoryAwareModel> extends DAO<T> implements AsyncHistoryCRUD<U> {
 public class HistoryAwareDAO<T extends Model, U extends HistoryAwareModel > extends DAO<T> implements HistoryCRUD<U> {
 
     private final HistoryPersistenceStrategy historyPersistenceStrategy = new FullCopyHistoryPersistenceStrategy();

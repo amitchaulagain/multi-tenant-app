@@ -2,389 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b7a1f1-d448-4565-adfd-a148f1448798" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/common/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/common/portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-dojo1.6/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-dojo1.8/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-jQuery/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-for-ssjs/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-kitchen-sink/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl-with-js-and-domReady/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/curl/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/dist/debug/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/_define.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/_stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/cjsm11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/jsEncode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/cram/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/domReady.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/cjsm11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/loader/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/_fetchText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/domReady.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/plugin/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/_fetchText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/dojo16.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/dojo18.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/shim/ssjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/tdd/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/curl/src/curl/tdd/undefine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/dist/html5shiv-printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/dist/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/src/html5shiv-printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/html5shiv/src/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/knockout-2.3.0.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/knockout/knockout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/messagePort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/redis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/adapters/webSocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/aggregators/batching.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/aggregators/correlating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/bridges/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/direct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/_subscribable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/broadcast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/direct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/exchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/pollable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/dispatchers/unicast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/exchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/pubsub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/channels/translators/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/gateways.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/msgs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/msgs/wire.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/es5-strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/es5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/lib/_base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/poly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/setImmediate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/support/json3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/poly/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/sockjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/sockjs/sockjs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/stomp/lib/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/stomp/lib/stomp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/apply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/cancelable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/guard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/aggregator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/both.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/logger/consoleGroup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/logger/rethrowToHost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/simpleFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/simpleReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/stackFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/monitor/throttledReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/node/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/parallel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/pipeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/poll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/sequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/timed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/timeout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/unfold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/unfold/list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/assets/lib/when/when.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/socket.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/traditional/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/common/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/common/portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-dojo1.6/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-dojo1.8/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-jQuery/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-for-ssjs/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-kitchen-sink/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl-with-js-and-domReady/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/curl/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/dist/debug/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/_define.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/_stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/cjsm11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/jsEncode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/cram/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/domReady.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/cjsm11.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/loader/legacy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/_fetchText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/domReady.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/locale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/plugin/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/_fetchText.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/dojo16.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/dojo18.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/shim/ssjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/curl/src/curl/tdd/undefine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/dist/html5shiv-printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/dist/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/src/html5shiv-printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/src/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/knockout-2.3.0.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/knockout/knockout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/dom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/messagePort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/redis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/adapters/webSocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/aggregators/batching.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/aggregators/correlating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/bridges/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/direct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/_subscribable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/broadcast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/direct.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/exchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/pollable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/dispatchers/unicast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/exchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/pubsub.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/channels/translators/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/gateways.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/msgs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/msgs/wire.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/es5-strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/es5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/lib/_base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/poly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/setImmediate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/support/json3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/poly/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/sockjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/sockjs/sockjs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/stomp/lib/stomp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/stomp/lib/stomp.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/apply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/cancelable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/guard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/aggregator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/both.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/logger/consoleGroup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/logger/rethrowToHost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/simpleFormatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/simpleReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/stackFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/monitor/throttledReporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/node/function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/parallel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/pipeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/poll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/sequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/timed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/timeout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/unfold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/unfold/list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/when/when.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/resources/assets/portfolio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncCRUD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwareModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryAwarePerson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryCRUD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncHistoryPersistenceStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/AsyncPersonDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/Greeting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/async/HelloMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SpringAsyncConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/SpringSecurity_MongoDB_MVC_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSecurity_MongoDB_MVC_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" afterPath="$PROJECT_DIR$/SpringSecurity-MongoDB-MVC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/CRUD.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/DAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/Initializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/SimpleCORSFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/WebAppConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/init/security-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md" afterPath="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md" />
     </list>
     <ignored path="SpringSecurity-MongoDB-MVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -436,11 +55,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2673522">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45833334">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1034484">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -466,31 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/service/ClientService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FutureHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/FutureHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/mongodb/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -505,16 +134,6 @@
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NonBlockingFuture.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -541,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/history/HistoryAwareModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/HistoryAwareDAO.java" />
@@ -592,6 +210,7 @@
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/heroine.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
+        <option value="$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md" />
       </list>
     </option>
   </component>
@@ -1061,7 +680,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34797588" />
-    <property name="SearchEverywhereHistoryKey" value="maincon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;ser&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;fut&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/async/FutureHandler.java&#10;contro&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;pom&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;Authen&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;portfo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java&#10;webs&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebSocketConfig.java&#10;so&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;socket.js&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;sock&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;app&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/appconfig.xml&#10;ini&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;person&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;pers&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;secu&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;security&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;po&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;AuthenticationU&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;se&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;HttpSessionSecurityContextRepository&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;login.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;HttpSessionConte&#9;PSI&#9;JAVA://org.springframework.security.web.context.HttpSessionSecurityContextRepository&#10;SimpleCORSFilter&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/SimpleCORSFilter.java&#10;weba&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebAppConfig.java&#10;init&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;Main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;clie&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;m&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;Ma&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;mongo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java&#10;mongoCon&#9;PSI&#9;JAVA://com.antuansoft.init.MongoConnection&#10;mon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java&#10;thin&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Thing.java&#10;con&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;filter&#9;PSI&#9;JAVA://com.antuansoft.init.SimpleCORSFilter#doFilter&#10;sec&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;pom.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;userre&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;user&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;cont&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
+    <property name="SearchEverywhereHistoryKey" value="readme.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/resources/assets/lib/html5shiv/readme.md&#10;maincon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;ser&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;fut&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/async/FutureHandler.java&#10;contro&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;pom&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;Authen&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;portfo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/PortfolioController.java&#10;webs&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebSocketConfig.java&#10;so&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;socket.js&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;sock&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/socket.jsp&#10;app&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/appconfig.xml&#10;ini&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;person&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;pers&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/Person.java&#10;secu&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;security&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;po&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;AuthenticationU&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/herospace/AuthenticationUtil.java&#10;se&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;HttpSessionSecurityContextRepository&#9;FILE&#9;jar:///home/amit/.m2/repository/org/springframework/security/spring-security-web/3.1.4.RELEASE/spring-security-web-3.1.4.RELEASE.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.class&#10;login.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/WebContent/WEB-INF/views/login.jsp&#10;pom.xml&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;HttpSessionConte&#9;PSI&#9;JAVA://org.springframework.security.web.context.HttpSessionSecurityContextRepository&#10;SimpleCORSFilter&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/SimpleCORSFilter.java&#10;weba&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/WebAppConfig.java&#10;init&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Initializer.java&#10;Main&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;clie&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/service/ClientService.java&#10;m&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;Ma&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;mongo&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/MongoConnection.java&#10;mongoCon&#9;PSI&#9;JAVA://com.antuansoft.init.MongoConnection&#10;mon&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/security/MongoUserDetailsService.java&#10;thin&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/Thing.java&#10;con&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java&#10;filter&#9;PSI&#9;JAVA://com.antuansoft.init.SimpleCORSFilter#doFilter&#10;sec&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/init/security-config.xml&#10;pom.&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/pom.xml&#10;userre&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;user&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/mongodb/connection/UserRepository.java&#10;cont&#9;FILE&#9;file:///home/amit/IdeaProjects/SpringSecurity-MongoDB-MVC/src/main/java/com/antuansoft/spring/mvc/MainController.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1664,12 +1283,12 @@
       <workItem from="1466238321861" duration="1607000" />
       <workItem from="1466242043926" duration="4023000" />
       <workItem from="1467608523465" duration="1327000" />
-      <workItem from="1472335745558" duration="1414000" />
+      <workItem from="1472335745558" duration="1733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="285415000" />
+    <option name="totallyTimeSpent" value="285734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1682,7 +1301,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1690,18 +1309,18 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516129" sideWeight="0.5060606" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19318181" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19318181" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3242424" sideWeight="0.48924732" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962121" sideWeight="0.48924732" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31136364" sideWeight="0.5107527" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1818,32 +1437,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/async/NonBlockingFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/herospace/Model.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2051,6 +1644,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2192,8 +1786,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/antuansoft/spring/mvc/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2673522">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1034484">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/resources/assets/lib/html5shiv/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45833334">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
